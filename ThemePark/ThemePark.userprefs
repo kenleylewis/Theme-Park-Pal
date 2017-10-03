@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{0A0BB07C-0250-4EA7-B82D-F63B867FB9C3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ThemePark/Model/User.cs">
+    <Files>
+      <File FileName="ThemePark/Program.cs" Line="1" Column="1" />
+      <File FileName="ThemePark/Model/User.cs" Line="4" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ThemePark PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

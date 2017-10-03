@@ -1,0 +1,49 @@
+[
+    {
+        "id": 0,
+        "title": "Mickey's Not So Scary Halloween Party vs. Universal Studios Halloween Horror Nights",
+        "content": "Mickey's Not So Scary Halloween Party is way better!",
+        "link": "https://disneyland.disney.go.com/events-tours/mickeys-halloween-party/",
+        "name": "Jimmy",
+        "likes": 289,
+        "dislikes": 10,
+        "likeCounter": true,
+        "dislikeCounter": true
+    },
+
+    {
+        "id": 1,
+        "title": "List Of The 100 Best Disney Movies Ever Made",
+        "content": "Lion King",
+        "link": "http://www.craveonline.com/mandatory/857129-50-best-disney-movies-ever-made#/slide/1",
+        "name": "Walt",
+        "likes": 430,
+        "dislikes": 28,
+        "likeCounter": true,
+        "dislikeCounter": true
+    },
+
+    {
+        "id": 2,
+        "title": "Best And Worse Of Universal Studios",
+        "content": "Your Favs and Not So Favs Of Universal",
+        "link": "http://www.azcentral.com/story/travel/destinations/california/2016/06/13/universal-studios-hollywood-best-worst-rides-shows/83869398/",
+        "name": "Sara",
+        "likes": 280,
+        "dislikes": 53,
+        "likeCounter": true,
+        "dislikeCounter": true
+    },
+
+    {
+        "id": 3,
+        "title": "Toy Story Land Coming Soon!",
+        "content": "Hell Yeah!",
+        "link": "https://disneyparks.disney.go.com/blog/2017/07/toy-story-land-to-open-at-walt-disney-world-resort-in-summer-2018/",
+        "name": "Randy Newman",
+        "likes": 562,
+        "dislikes": 0,
+        "likeCounter": true,
+        "dislikeCounter": true
+    }
+]

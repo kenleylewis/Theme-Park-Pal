@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{15CBDDD2-DA60-4C57-B9C9-3E913AE25978}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/UserController.cs">
+    <Files>
+      <File FileName="Controllers/UserController.cs" Line="92" Column="34" />
+      <File FileName="Startup.cs" Line="1" Column="1" />
+      <File FileName="Controllers/ValuesController.cs" Line="28" Column="48" />
+      <File FileName="Program.cs" Line="17" Column="1" />
+      <File FileName="Model/User.cs" Line="13" Column="43" />
+      <File FileName="Model/UserContext.cs" Line="2" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ThemePark PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

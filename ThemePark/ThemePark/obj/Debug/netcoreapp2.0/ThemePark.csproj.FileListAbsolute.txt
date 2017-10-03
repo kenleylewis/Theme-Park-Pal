@@ -1,0 +1,12 @@
+/Users/kenleylewis/Desktop/ThemePark/ThemePark/bin/Debug/netcoreapp2.0/ThemePark.deps.json
+/Users/kenleylewis/Desktop/ThemePark/ThemePark/bin/Debug/netcoreapp2.0/ThemePark.runtimeconfig.json
+/Users/kenleylewis/Desktop/ThemePark/ThemePark/bin/Debug/netcoreapp2.0/ThemePark.runtimeconfig.dev.json
+/Users/kenleylewis/Desktop/ThemePark/ThemePark/bin/Debug/netcoreapp2.0/ThemePark.dll
+/Users/kenleylewis/Desktop/ThemePark/ThemePark/bin/Debug/netcoreapp2.0/ThemePark.pdb
+/Users/kenleylewis/Desktop/ThemePark/ThemePark/obj/Debug/netcoreapp2.0/ThemePark.csprojResolveAssemblyReference.cache
+/Users/kenleylewis/Desktop/ThemePark/ThemePark/obj/Debug/netcoreapp2.0/ThemePark.csproj.CoreCompileInputs.cache
+/Users/kenleylewis/Desktop/ThemePark/ThemePark/obj/Debug/netcoreapp2.0/ThemePark.AssemblyInfoInputs.cache
+/Users/kenleylewis/Desktop/ThemePark/ThemePark/obj/Debug/netcoreapp2.0/ThemePark.AssemblyInfo.cs
+/Users/kenleylewis/Desktop/ThemePark/ThemePark/obj/Debug/netcoreapp2.0/ThemePark.dll
+/Users/kenleylewis/Desktop/ThemePark/ThemePark/obj/Debug/netcoreapp2.0/ThemePark.pdb
+/Users/kenleylewis/Desktop/ThemePark/ThemePark/bin/Debug/netcoreapp2.0/libe_sqlite3.dylib

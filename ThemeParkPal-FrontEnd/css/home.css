@@ -1,0 +1,156 @@
+* {
+  padding: 0;
+  margin: 0;
+  /* box-sizing: border-box; */
+}
+
+
+@-webkit-keyframes typing { from { width: 0; } }
+@-webkit-keyframes blink-caret { 50% { border-color: transparent; } }
+
+h1 { 
+    font: bold 300% Consolas, Monaco, monospace;
+    border-right: .1em solid black;
+    width: 16.5em; 
+    width: 49ch;
+    margin: 60px 0px 15px 110px;
+    white-space: nowrap;
+    overflow: hidden;
+    -webkit-animation: typing 3s steps(49, end),
+               blink-caret .5s step-end infinite alternate;
+}
+
+.carousel-indicators {
+    margin-left: 0px;
+}
+ 
+.typeTextContainer {
+ font-family: 'Julius Sans One', sans-serif;
+ text-align: center;
+ color: #635d5d;
+ font-weight: 800;
+}
+
+/* images */
+
+
+.homeimg {
+  margin: -70px 0px;
+}
+
+
+.imgContainer2{
+    height: 350px;
+    width: 100%;
+    margin: 125px auto;
+}
+
+.movie-images {
+  width: 14.6%;
+  margin: 0 1%;
+  height: 350px;
+  float: left;
+}
+
+ .jaws {
+  background: url("../images/jaws.jpg") center center no-repeat;
+  background-size: cover;
+}
+
+.backtothefuture {
+  background: url("../images/backtothefuture.jpg") center center no-repeat;
+  background-size: cover;
+}
+.junglebook {
+  background: url("../images/junglebook.jpg") center center no-repeat;
+  background-size: cover;
+}
+.littlemermaid {
+  background: url("../images/littlemermaid.jpg") center center no-repeat;
+  background-size: cover;
+}
+.et {
+  background: url("../images/et.jpg") center center no-repeat;
+  background-size: cover;
+}
+.toystory {
+  background: url("../images/toystory.jpg") center center no-repeat;
+  background-size: cover;
+} 
+
+ .flubber {
+  background: url("../images/flubber.jpg") center center no-repeat;
+  background-size: cover;
+}
+
+.hulk {
+  background: url("../images/hulk.jpg") center center no-repeat;
+  background-size: cover;
+}
+.honeyishrunkthekids {
+  background: url("../images/honeyishrunkthekids.jpg") center center no-repeat;
+  background-size: cover;
+}
+.jurassicpark {
+  background: url("../images/jurassicpark.jpg") center center no-repeat;
+  background-size: cover;
+}
+.pocahontas {
+  background: url("../images/pocahontas.jpg") center center no-repeat;
+  background-size: cover;
+}
+.mummy {
+  background: url("../images/mummy.jpg") center center no-repeat;
+  background-size: cover;
+} 
+
+ .thelionking {
+  background: url("../images/thelionking.jpg") center center no-repeat;
+  background-size: cover;
+}
+
+.spiderman {
+  background: url("../images/spiderman.jpg") center center no-repeat;
+  background-size: cover;
+}
+.tarzan {
+  background: url("../images/tarzan.jpg") center center no-repeat;
+  background-size: cover;
+}
+.thegrinch {
+  background: url("../images/thegrinch.jpg") center center no-repeat;
+  background-size: cover;
+}
+.airbud {
+  background: url("../images/airbud.jpg") center center no-repeat;
+  background-size: cover;
+}
+.despicableme {
+  background: url("../images/despicableme.jpg") center center no-repeat;
+  background-size: cover;
+} 
+
+.uniLogo {
+  width:50%;
+}
+
+.absolute {
+    position: absolute !important;
+}
+
+.overlay {
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 10;
+}
+
+.block {
+    position: relative;
+    margin-left: -15px;
+    margin-right: -15px;
+}
